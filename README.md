@@ -1,5 +1,5 @@
-<img src=”https://pin.it/s7iq3knkpfqfcx”>
-<img src=”https://pin.it/hjzfdmshyppgms”>
+![](https://pin.it/s7iq3knkpfqfcx)
+![](https://pin.it/hjzfdmshyppgms)
 
 
 

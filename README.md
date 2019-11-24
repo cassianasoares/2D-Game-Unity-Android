@@ -1,8 +1,8 @@
 ![android game title](https://user-images.githubusercontent.com/57958790/69499672-57136a80-0ed3-11ea-9c13-5d5d93366ae3.jpg)
-![android game levels](https://user-images.githubusercontent.com/57958790/69499687-80cc9180-0ed3-11ea-90fc-412a6856953b.jpg)
-![android game gameplay](https://user-images.githubusercontent.com/57958790/69499699-9cd03300-0ed3-11ea-8513-3dcc5e5f9387.jpg)
-![android game score](https://user-images.githubusercontent.com/57958790/69499701-aeb1d600-0ed3-11ea-8b35-27b50e0016be.jpg)
-![android game pontos](https://user-images.githubusercontent.com/57958790/69499706-be311f00-0ed3-11ea-83e1-f0ec5fd39057.jpg)
+![android game level](https://user-images.githubusercontent.com/57958790/69499974-03eee700-0ed6-11ea-8130-c6f4840feea4.jpg)
+![android game gameplay1](https://user-images.githubusercontent.com/57958790/69499986-1701b700-0ed6-11ea-9232-8e7100fe6ecd.jpg)
+![android game scores](https://user-images.githubusercontent.com/57958790/69499999-297bf080-0ed6-11ea-835f-e072730d68fd.jpg)
+![android game records](https://user-images.githubusercontent.com/57958790/69500006-3698df80-0ed6-11ea-872e-c897e4adb1c6.jpg)
 
 
 

@@ -1,0 +1,1018 @@
+fileFormatVersion: 2
+guid: e0574298c07ece548aeb72c18ed69925
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8640138930207548502
+    second: HUD_COLOR_GAME_0
+  - first:
+      213: 2141747747449747315
+    second: HUD_COLOR_GAME_1
+  - first:
+      213: -1609960596841182911
+    second: HUD_COLOR_GAME_2
+  - first:
+      213: -4600671953145157434
+    second: HUD_COLOR_GAME_3
+  - first:
+      213: -730381203883492926
+    second: HUD_COLOR_GAME_4
+  - first:
+      213: 6952926156320015698
+    second: HUD_COLOR_GAME_5
+  - first:
+      213: 4445770504344552500
+    second: HUD_COLOR_GAME_6
+  - first:
+      213: -4746648855206649288
+    second: HUD_COLOR_GAME_7
+  - first:
+      213: -3214154116433189819
+    second: HUD_COLOR_GAME_8
+  - first:
+      213: -4381510149544546124
+    second: HUD_COLOR_GAME_9
+  - first:
+      213: -1841519164165578735
+    second: HUD_COLOR_GAME_10
+  - first:
+      213: 5328686442608175888
+    second: HUD_COLOR_GAME_11
+  - first:
+      213: 6413377106445021526
+    second: HUD_COLOR_GAME_12
+  - first:
+      213: 1079399740098626180
+    second: HUD_COLOR_GAME_13
+  - first:
+      213: -2237401635716502749
+    second: HUD_COLOR_GAME_14
+  - first:
+      213: -1760659758204692956
+    second: HUD_COLOR_GAME_15
+  - first:
+      213: -242107032061824371
+    second: HUD_COLOR_GAME_16
+  - first:
+      213: -908520444663788722
+    second: HUD_COLOR_GAME_17
+  - first:
+      213: 2425323574658703093
+    second: HUD_COLOR_GAME_18
+  - first:
+      213: -3722799062069463441
+    second: HUD_COLOR_GAME_19
+  - first:
+      213: -1521105737816395235
+    second: HUD_COLOR_GAME_20
+  - first:
+      213: -261266083927978962
+    second: HUD_COLOR_GAME_21
+  - first:
+      213: -4875380663732762139
+    second: HUD_COLOR_GAME_22
+  - first:
+      213: -571015286207725258
+    second: HUD_COLOR_GAME_23
+  - first:
+      213: 408582930990973897
+    second: HUD_COLOR_GAME_24
+  - first:
+      213: 1524151928149894074
+    second: HUD_COLOR_GAME_25
+  - first:
+      213: -3387849964993991000
+    second: HUD_COLOR_GAME_26
+  - first:
+      213: -6087763364140139600
+    second: HUD_COLOR_GAME_27
+  - first:
+      213: -953700892394721727
+    second: HUD_COLOR_GAME_28
+  - first:
+      213: -8983594384669926078
+    second: HUD_COLOR_GAME_29
+  - first:
+      213: -6755864923206727394
+    second: HUD_COLOR_GAME_30
+  - first:
+      213: -7030805801404235419
+    second: HUD_COLOR_GAME_31
+  - first:
+      213: -7661804118520439428
+    second: HUD_COLOR_GAME_32
+  - first:
+      213: -2831968544302380707
+    second: HUD_COLOR_GAME_33
+  - first:
+      213: -2740308479499181147
+    second: HUD_COLOR_GAME_34
+  - first:
+      213: -3811439204373193084
+    second: HUD_COLOR_GAME_35
+  - first:
+      213: -2752673975008842835
+    second: HUD_COLOR_GAME_36
+  - first:
+      213: 5440853435782896018
+    second: HUD_COLOR_GAME_37
+  - first:
+      213: 4389733149792266385
+    second: HUD_COLOR_GAME_38
+  - first:
+      213: -3638245436483598483
+    second: HUD_COLOR_GAME_39
+  - first:
+      213: -1184000128220875688
+    second: HUD_COLOR_GAME_40
+  - first:
+      213: 5312143581633038375
+    second: HUD_COLOR_GAME_41
+  - first:
+      213: -8412979817550026853
+    second: HUD_COLOR_GAME_42
+  - first:
+      213: 2650955137629756762
+    second: HUD_COLOR_GAME_43
+  - first:
+      213: -1236506368019803736
+    second: HUD_COLOR_GAME_44
+  - first:
+      213: -5908581236299064103
+    second: HUD_COLOR_GAME_45
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 840
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1702808e249c10748b8eed5d2fb33717
+      internalID: -8640138930207548502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 840
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4134b9858f4d840b2679b7288289fb
+      internalID: 2141747747449747315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 839
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c313a57fc00df14a8ac745721dbe269
+      internalID: -1609960596841182911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 840
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af57598bca593e4ca6499487b6aa817
+      internalID: -4600671953145157434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_4
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 839
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b99e28c5ca88c41ae44f1d77ce97db
+      internalID: -730381203883492926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_5
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 733
+        width: 330
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7453d84f91d1af44b86d57037f262a62
+      internalID: 6952926156320015698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 761
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38958b256870aa4a9487c7a4be0c2c7
+      internalID: 4445770504344552500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 762
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa075967e56a5749b39ada03966b240
+      internalID: -4746648855206649288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_8
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 761
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1373f3ddcbf9a7944911ea9403d29ebf
+      internalID: -3214154116433189819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 761
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c79dde8892ed054e978297045fc8519
+      internalID: -4381510149544546124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_12
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 697
+        width: 222
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef479f953549fb64c94c49f250f4e41c
+      internalID: 6413377106445021526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_13
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 372
+        width: 292
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb1c4066222e214793b8325dbd120bd
+      internalID: 1079399740098626180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 565
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e650abefea51d42a45aaec26b53d0d
+      internalID: -2237401635716502749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_15
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 564
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c72368ce76d274c971faa832994469
+      internalID: -1760659758204692956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_16
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 652
+        width: 179
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e753299ffa894742ae6f69e0c00bf5f
+      internalID: -242107032061824371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_20
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 608
+        width: 182
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4018d873957c0434ba1106a0a8c46405
+      internalID: -1521105737816395235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_21
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 570
+        width: 111
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d3308544baab240a5081f87513d1f6
+      internalID: -261266083927978962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_22
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 466
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f261e50ce0b2db849bb4579ea2aac972
+      internalID: -4875380663732762139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_23
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 518
+        width: 108
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab8f710d0f928d488553015101f86bb
+      internalID: -571015286207725258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 460
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afd77479bc476942bf6ae8a4dd29624
+      internalID: 408582930990973897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_25
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 454
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bd8bd7869d59b458526ceea9821d84
+      internalID: 1524151928149894074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_26
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 473
+        width: 116
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a8ba32fd7ad9d4983e13f1e1f5f53c
+      internalID: -3387849964993991000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_27
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 434
+        width: 130
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae1af38e4a572b489a6e0fd96731d9f
+      internalID: -6087763364140139600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 347
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab300916f7592b54589e2fa820d00880
+      internalID: -953700892394721727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 342
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610c92aa0e0da27479fb0af9f9ac0480
+      internalID: -8983594384669926078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_30
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 298
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e36edb012b580f4aa3b37ed03652bbe
+      internalID: -6755864923206727394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_33
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 392
+        width: 95
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9397287b47835cb4caaf73e480fd7312
+      internalID: -2831968544302380707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_35
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 338
+        width: 121
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7301d9f0325b5ad4eb4825de4f3e0243
+      internalID: -3811439204373193084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 158
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35a53ab1b32c4b4f9ffb2dea63567c2
+      internalID: 5440853435782896018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_38
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 210
+        width: 311
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb94d1f26b83b4d43b5f8ec06d026a23
+      internalID: 4389733149792266385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_39
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 147
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f586b94ff5f475f498a671034fecbcb9
+      internalID: -3638245436483598483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_40
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 167
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42740867657b88840b5f300647f5b84d
+      internalID: -1184000128220875688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_41
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 237
+        width: 145
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0675fff2100f24e459911ef70558c1b9
+      internalID: 5312143581633038375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_42
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 49
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3989e6eb961d5184a95d667a98dcedd9
+      internalID: -8412979817550026853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_43
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 110
+        width: 311
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2da7153ba433141ba34b37cc058688
+      internalID: 2650955137629756762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_44
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 81
+        width: 256
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958d8af4732604343aeaaaa0cdfe5369
+      internalID: -1236506368019803736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_COLOR_GAME_45
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 17
+        width: 311
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfff27097f17a7489e095a0250e3049
+      internalID: -5908581236299064103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

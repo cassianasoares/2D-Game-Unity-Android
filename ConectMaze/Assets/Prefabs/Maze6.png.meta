@@ -1,0 +1,619 @@
+fileFormatVersion: 2
+guid: 62e4ea556e6156a489e01f1c113d3ac0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -222098845123365736
+    second: Maze6_0
+  - first:
+      213: -689275149700133712
+    second: Maze6_1
+  - first:
+      213: -4054529072161040342
+    second: Maze6_2
+  - first:
+      213: 3786801156763075604
+    second: Maze6_3
+  - first:
+      213: 6880684310821186944
+    second: Maze6_4
+  - first:
+      213: -2462889555992148327
+    second: Maze6_5
+  - first:
+      213: -2104401543141832459
+    second: Maze6_6
+  - first:
+      213: -2256921582198644805
+    second: Maze6_7
+  - first:
+      213: -1318943979651647328
+    second: Maze6_8
+  - first:
+      213: -3109781326733413120
+    second: Maze6_9
+  - first:
+      213: 2228073422261496316
+    second: Maze6_10
+  - first:
+      213: 7062500489840770480
+    second: Maze6_11
+  - first:
+      213: -231299629174333628
+    second: Maze6_12
+  - first:
+      213: 180325957436215304
+    second: Maze6_13
+  - first:
+      213: -2250656678314355542
+    second: Maze6_14
+  - first:
+      213: -2833644725056739865
+    second: Maze6_15
+  - first:
+      213: -220451159967212736
+    second: Maze6_16
+  - first:
+      213: -3617430126208306560
+    second: Maze6_17
+  - first:
+      213: 4417862000774473754
+    second: Maze6_18
+  - first:
+      213: 8157667498291974978
+    second: Maze6_19
+  - first:
+      213: -2858022700411026331
+    second: Maze6_20
+  - first:
+      213: -307390399731096046
+    second: Maze6_21
+  - first:
+      213: -4440147582723561242
+    second: Maze6_22
+  - first:
+      213: 3412529216356994315
+    second: Maze6_23
+  - first:
+      213: -8479689294342056556
+    second: Maze6_24
+  - first:
+      213: -6991912696984913294
+    second: Maze6_25
+  - first:
+      213: 1727922777422808887
+    second: Maze6_26
+  - first:
+      213: -1921470934860619022
+    second: Maze6_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maze6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 437
+        width: 127
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332a61139c7caec4b8788c85d4860ad8
+      internalID: -222098845123365736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze6_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 437
+        width: 127
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d57337988c01142a12b4ab2612b5d7
+      internalID: -689275149700133712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze6_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 437
+        width: 127
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968f4342d83f2a545a88aa6613fc6c16
+      internalID: -4054529072161040342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze6_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 437
+        width: 127
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a5f6e4b8488084a80ddc5954885394
+      internalID: 3786801156763075604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze6_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 127
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b935c378e0c3e2943b74a22a006c81d9
+      internalID: 6880684310821186944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze6_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 328
+        width: 127
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e009ed59da45c5b4391635a72413259f
+      internalID: -2462889555992148327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze6_6
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 328
+        width: 127
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd215a2b438f274db01ec2735a26915
+      internalID: -2104401543141832459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze6_7
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 328
+        width: 127
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf2d71171b56a74f86ccdb564b34f6c
+      internalID: -2256921582198644805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze6_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 127
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d1c1d5b7ba3c742a1c38fd04398100
+      internalID: -1318943979651647328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze6_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 219
+        width: 127
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90166bc8c4cd6c47a0f674e26341722
+      internalID: -3109781326733413120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze6_10
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 219
+        width: 127
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81ea1a971b7b5a458a98b6933adaf02
+      internalID: 2228073422261496316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze6_11
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 219
+        width: 127
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e345e8064d898742b05eaab3a950571
+      internalID: 7062500489840770480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze6_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 127
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9d230aa8291254e93849ebb8f72f32
+      internalID: -231299629174333628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze6_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 110
+        width: 127
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b891cfd73721df54fbd1f4720c34a342
+      internalID: 180325957436215304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze6_14
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 110
+        width: 127
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3112ead3d5b324db4c461d663e58dc
+      internalID: -2250656678314355542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze6_15
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 110
+        width: 127
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbf2ee62df8d9a4fa84f0f009a6dba5
+      internalID: -2833644725056739865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze6_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 127
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026c6f3d52878314f9a06bd1569d3daf
+      internalID: -220451159967212736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze6_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1
+        width: 127
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3837e9bd9dd3b904a8fa5603b506e0f9
+      internalID: -3617430126208306560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze6_18
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1
+        width: 127
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d003005883a4d604db806742e335279a
+      internalID: 4417862000774473754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze6_19
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1
+        width: 127
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10db2358dd702541a198b5914ab9052
+      internalID: 8157667498291974978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
